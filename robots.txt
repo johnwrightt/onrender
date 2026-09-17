@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fr-legends-corner-workshop.onrender.com/sitemap.xml
