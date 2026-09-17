@@ -8,7 +8,7 @@ Independent static resource for FR Legends driving, cars, cornering, drifting, t
 
 ## Planned URL
 
-https://fr-legends-corner-workshop.onrender.com
+https://onrender-pyfl.onrender.com/index.html
 
 ## Deployment
 
